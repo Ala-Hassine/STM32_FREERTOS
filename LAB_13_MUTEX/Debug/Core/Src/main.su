@@ -1,0 +1,13 @@
+../Core/Src/main.c:123:5:main	8	static
+../Core/Src/main.c:218:6:SystemClock_Config	88	static
+../Core/Src/main.c:264:13:MX_GPIO_Init	40	static
+../Core/Src/main.c:303:6:LED_Toggle	16	static
+../Core/Src/main.c:307:9:IsButtonPressed	24	static
+../Core/Src/main.c:317:6:ProcessButtonPress	24	static
+../Core/Src/main.c:337:6:HAL_GPIO_EXTI_Callback	24	static
+../Core/Src/main.c:368:6:StartDefaultTask	16	static
+../Core/Src/main.c:386:6:StartBTN1_Task	24	static
+../Core/Src/main.c:408:6:StartBTN2_Task	16	static
+../Core/Src/main.c:427:6:StartLEDTask	32	static
+../Core/Src/main.c:477:6:HAL_TIM_PeriodElapsedCallback	16	static
+../Core/Src/main.c:494:6:Error_Handler	4	static,ignoring_inline_asm

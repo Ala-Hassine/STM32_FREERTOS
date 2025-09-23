@@ -1,0 +1,13 @@
+../Core/Src/main.c:123:5:main	1
+../Core/Src/main.c:218:6:SystemClock_Config	3
+../Core/Src/main.c:264:13:MX_GPIO_Init	1
+../Core/Src/main.c:303:6:LED_Toggle	1
+../Core/Src/main.c:307:9:IsButtonPressed	2
+../Core/Src/main.c:317:6:ProcessButtonPress	2
+../Core/Src/main.c:337:6:HAL_GPIO_EXTI_Callback	5
+../Core/Src/main.c:368:6:StartDefaultTask	1
+../Core/Src/main.c:386:6:StartBTN1_Task	2
+../Core/Src/main.c:408:6:StartBTN2_Task	1
+../Core/Src/main.c:427:6:StartLEDTask	8
+../Core/Src/main.c:477:6:HAL_TIM_PeriodElapsedCallback	2
+../Core/Src/main.c:494:6:Error_Handler	1
