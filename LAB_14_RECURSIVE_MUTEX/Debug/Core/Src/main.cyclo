@@ -1,0 +1,16 @@
+../Core/Src/main.c:114:6:PrintData	1
+../Core/Src/main.c:122:6:LED_Toggle	1
+../Core/Src/main.c:127:6:LED_ON	1
+../Core/Src/main.c:132:6:LED_OFF	1
+../Core/Src/main.c:137:9:IsButtonPressed	3
+../Core/Src/main.c:151:6:RecursiveLEDFunction	4
+../Core/Src/main.c:175:6:ComplexLEDPattern	4
+../Core/Src/main.c:208:5:main	1
+../Core/Src/main.c:303:6:SystemClock_Config	3
+../Core/Src/main.c:349:13:MX_USART2_UART_Init	2
+../Core/Src/main.c:382:13:MX_GPIO_Init	1
+../Core/Src/main.c:428:6:StartDefaultTask	1
+../Core/Src/main.c:448:6:StartBTN_Task	7
+../Core/Src/main.c:498:6:StartLEDTask	12
+../Core/Src/main.c:571:6:HAL_TIM_PeriodElapsedCallback	2
+../Core/Src/main.c:588:6:Error_Handler	1
